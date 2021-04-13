@@ -241,6 +241,10 @@ header.masthead .post-heading .subheading {
   display: block;
 }
 
+.subheading {
+    text-align: left;
+}
+
 header.masthead .post-heading .subheading {
   font-size: 24px;
   font-weight: 600;
